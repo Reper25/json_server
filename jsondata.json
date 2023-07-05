@@ -1,0 +1,145 @@
+{
+    "testimonials": [
+        {
+            "id":1,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
+            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+        },
+        {
+            "id":2,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
+            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+        },
+        {
+            "id":3,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
+            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+        },
+        {
+            "id":4,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
+            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+        },
+        {
+            "id":5,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
+            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+        },
+        {
+            "id":6,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
+            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+        }
+    ],
+
+    "projects": [
+        {
+          "id": 1,
+          "name": "dont call me",
+          "description": "fire",
+          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
+          "github": "#",
+          "netlify": "#"
+        },
+        {
+          "id": 2,
+          "name": "dont call me",
+          "description": "fire",
+          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
+          "github": "#",
+          "netlify": "#"
+        },
+        {
+          "id": 3,
+          "name": "dont call me",
+          "description": "fire",
+          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
+          "github": "#",
+          "netlify": "#"
+        },
+        {
+          "id": 4,
+          "name": "dont call me",
+          "description": "fire",
+          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
+          "github": "#",
+          "netlify": "#"
+        },
+        {
+          "id": 5,
+          "name": "dont call me",
+          "description": "fire",
+          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
+          "github": "#",
+          "netlify": "#"
+        },
+        {
+          "id": 6,
+          "name": "dont call me",
+          "description": "fire",
+          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
+          "github": "#",
+          "netlify": "#"
+        }
+    ],
+
+    "skills": [
+        {
+            "id":1,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":2,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":3,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":4,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":5,
+            "Name":"thing",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        }
+    ],
+    "Education":[
+        {
+            "id":1,
+            "Name":"thing",
+            "Year":"2004-2005",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":2,
+            "Name":"thing",
+            "Year":"2004-2005",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":3,
+            "Name":"thing",
+            "Year":"2004-2005",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        },
+        {
+            "id":4,
+            "Name":"thing",
+            "Year":"2004-2005",
+            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+        }
+    ]
+}
