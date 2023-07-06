@@ -41,51 +41,51 @@
     "projects": [
         {
           "id": 1,
-          "name": "dont call me",
-          "description": "fire",
-          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
-          "github": "#",
-          "netlify": "#"
+          "name": "First Portfolio",
+          "description": "My first Portfolio",
+          "image": "https://i.postimg.cc/h4z08fzb/Screenshot-2023-07-06-205455.png",
+          "github": "https://github.com/Reper25/project-1.git",
+          "netlify": "https://portfolio-project007.netlify.app/"
         },
         {
           "id": 2,
-          "name": "dont call me",
-          "description": "fire",
-          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
-          "github": "#",
-          "netlify": "#"
+          "name": "ECOM website",
+          "description": "My Suit Shop",
+          "image": "https://i.postimg.cc/prFYP6b1/Screenshot-2023-07-06-205150.png",
+          "github": "https://github.com/Reper25/end-project-js1.git",
+          "netlify": "https://loquacious-moonbeam-c204cf.netlify.app/"
         },
         {
           "id": 3,
-          "name": "dont call me",
-          "description": "fire",
-          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
-          "github": "#",
-          "netlify": "#"
+          "name": "Calculator",
+          "description": "My first js calculator",
+          "image": "https://i.postimg.cc/2637K5HY/Screenshot-2023-07-06-205353.png",
+          "github": "https://github.com/Reper25/calculator.git",
+          "netlify": "https://earnest-biscuit-6a2108.netlify.app/"
         },
         {
           "id": 4,
-          "name": "dont call me",
-          "description": "fire",
-          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
-          "github": "#",
-          "netlify": "#"
+          "name": "Temperature Converter",
+          "description": "It converts temperatures",
+          "image": "https://i.postimg.cc/xC73DS7z/Screenshot-2023-07-06-205252.png",
+          "github": "https://github.com/Reper25/Temperature-Converter.git",
+          "netlify": "https://deluxe-sundae-f9825c.netlify.app/"
         },
         {
           "id": 5,
-          "name": "dont call me",
-          "description": "fire",
-          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
-          "github": "#",
-          "netlify": "#"
+          "name": "Fun Xiao",
+          "description": "Very first website i made",
+          "image": "https://i.postimg.cc/66kfMtCs/Screenshot-2023-07-06-205612.png",
+          "github": "https://github.com/Reper25/Xiao.git",
+          "netlify": "https://celebrated-pavlova-c2c1ed.netlify.app/"
         },
         {
           "id": 6,
-          "name": "dont call me",
-          "description": "fire",
-          "image": "https://i.postimg.cc/Jhvxmv3x/Screenshot-2023-07-01-094227.png",
-          "github": "#",
-          "netlify": "#"
+          "name": "To-Do list",
+          "description": "Working To do list",
+          "image": "https://i.postimg.cc/hGDrVsTf/Screenshot-2023-07-06-204954.png",
+          "github": "https://github.com/Reper25/To-do_list.git",
+          "netlify": "https://benevolent-starlight-0dfd70.netlify.app/"
         }
     ],
 
