@@ -2,39 +2,39 @@
     "testimonials": [
         {
             "id":1,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
-            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+            "Name":"Ganiefah Majiet",
+            "image":"https://i.postimg.cc/NfjyzKyN/Screenshot-2023-05-03-100656.png",
+            "paragraph":" Laeeq is a highly thought intellectual from my perspective. He is extremely kind, passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership  skills and any company would be lucky to have him on their team."
         },
         {
             "id":2,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
-            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+            "Name":"Laiquah Cotie",
+            "image":"https://i.postimg.cc/cCRNRPLw/C12-Laiquah-Cotie-2.jpg",
+            "paragraph":"I have had the pleasure of working closely with Laeeq Majal and can confidently say they are a dedicated, hardworking individual. Their commitment to delivering high-quality results is commendable, and they consistently go above and beyond to ensure tasks are completed with excellence."
         },
         {
             "id":3,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
-            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+            "Name":"Ethan Oliver",
+            "image":"https://i.postimg.cc/JnfY0f9g/IMG-9863-1.jpg",
+            "paragraph":"Laeeq Majal is a highly dedicated and hardworking professional. They consistently put in the extra effort to produce outstanding results and approach every task with enthusiasm. Their work ethic is truly inspiring and an asset to any team or organization."
         },
         {
             "id":4,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
-            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+            "Name":"Ayesha Galant",
+            "image":"https://i.postimg.cc/bv7NYJwj/C12-Ayesha-Galant-Class1-1.jpg",
+            "paragraph":"Laeeq Majal is dedicated and very passionate about his work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so."
         },
         {
             "id":5,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
-            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+            "Name":"Liyabona Mxhalisa",
+            "image":"https://i.postimg.cc/NFwMD03x/C12-Liyabona-Mxhalis-4.jpg",
+            "paragraph":"I have had the privilege of witnessing [Your Name]'s exceptional work ethic and dedication. They consistently go the extra mile to achieve success and handle multiple responsibilities with efficiency. Laeeq Majal is an invaluable asset, and I have no doubt their hard work will lead to great achievements."
         },
         {
             "id":6,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png",
-            "paragraph":"jbfhghsbkjbjkdbjksbfv"
+            "Name":"Asiphe Ndimlana",
+            "image":"https://i.postimg.cc/zGNm0g2M/C12-Asiphe-Ndimlana-1.jpg",
+            "paragraph":"Laeeq Majal is an incredibly hardworking and dedicated individual. They consistently deliver exceptional work, paying attention to detail and going above and beyond. Their dedication and work ethic will undoubtedly drive their success in the future."
         }
     ],
 
@@ -92,54 +92,47 @@
     "skills": [
         {
             "id":1,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"Bootstrap",
+            "image":"https://fontawesome.com/icons/bootstrap?f=brands&s=solid"
         },
         {
             "id":2,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"Figma",
+            "image":"https://fontawesome.com/icons/figma?f=brands&s=solid"
         },
         {
             "id":3,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"Java Script",
+            "image":"https://fontawesome.com/icons/js?f=brands&s=solid"
         },
         {
             "id":4,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"VueJS",
+            "image":"https://fontawesome.com/icons/vuejs?f=brands&s=solid"
         },
         {
             "id":5,
-            "Name":"thing",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"HTML",
+            "image":"https://fontawesome.com/icons/html5?f=brands&s=solid"
+        },
+        {
+            "id":6,
+            "Name":"CSS",
+            "image":"https://fontawesome.com/icons/css3?f=brands&s=solid"
         }
     ],
     "Education":[
         {
             "id":1,
-            "Name":"thing",
-            "Year":"2004-2005",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"Rylands High School",
+            "Year":"2018-2022",
+            "image":"https://i.postimg.cc/g0hrZ5jR/66030761-634662610380912-7863632476667641856-n-removebg-preview.png"
         },
         {
             "id":2,
-            "Name":"thing",
-            "Year":"2004-2005",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
-        },
-        {
-            "id":3,
-            "Name":"thing",
-            "Year":"2004-2005",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
-        },
-        {
-            "id":4,
-            "Name":"thing",
-            "Year":"2004-2005",
-            "image":"https://i.postimg.cc/pdNh9wDJ/Screenshot-2023-06-08-113439.png"
+            "Name":"Life Choices",
+            "Year":"2023-2025",
+            "image":"https://i.postimg.cc/bJHJ6tQw/lifechoices-services-8.jpg"
         }
     ]
 }
