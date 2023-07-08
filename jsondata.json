@@ -93,32 +93,32 @@
         {
             "id":1,
             "Name":"Bootstrap",
-            "image":"https://fontawesome.com/icons/bootstrap?f=brands&s=solid"
+            "image":"https://i.postimg.cc/XYZzQ3dZ/Screenshot-2023-07-08-145825-removebg-preview.png"
         },
         {
             "id":2,
             "Name":"Figma",
-            "image":"https://fontawesome.com/icons/figma?f=brands&s=solid"
+            "image":"https://i.postimg.cc/kXYHQD63/Screenshot-2023-07-08-145929-removebg-preview.png"
         },
         {
             "id":3,
             "Name":"Java Script",
-            "image":"https://fontawesome.com/icons/js?f=brands&s=solid"
+            "image":"https://i.postimg.cc/T29FPtTP/Screenshot-2023-07-08-150011-removebg-preview.png"
         },
         {
             "id":4,
             "Name":"VueJS",
-            "image":"https://fontawesome.com/icons/vuejs?f=brands&s=solid"
+            "image":"https://i.postimg.cc/RVZ8Jw0L/Screenshot-2023-07-08-150050-removebg-preview.png"
         },
         {
             "id":5,
             "Name":"HTML",
-            "image":"https://fontawesome.com/icons/html5?f=brands&s=solid"
+            "image":"https://i.postimg.cc/cCszmnBZ/Screenshot-2023-07-08-150122-removebg-preview.png"
         },
         {
             "id":6,
             "Name":"CSS",
-            "image":"https://fontawesome.com/icons/css3?f=brands&s=solid"
+            "image":"https://i.postimg.cc/4d4v2bq8/Screenshot-2023-07-08-150154-removebg-preview.png"
         }
     ],
     "Education":[
